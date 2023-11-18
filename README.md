@@ -1,2 +1,2 @@
 # post-links
-Aplicação com funcionalidade parecia com o linkTree, usando Reacy, Typescript, Supabase e Styled Components.
+Aplicação com funcionalidade parecia com o Linktree, usando React, Typescript, Supabase e Styled Components.
